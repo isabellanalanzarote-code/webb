@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Huella Isleña | La esencia de Lanzarote</title>
+</head>
+
+<body style="margin: 0; font-family: Arial, sans-serif; background-color: #F5EFE3; color: #243746; line-height: 1.7;">
+
+    <header style="background-color: #163D50; color: white; text-align: center; padding: 40px 20px;">
+        <h1 style="font-size: 48px; margin: 0; letter-spacing: 2px;">Huella Isleña</h1>
+        <p style="color: #E8D5B7; font-size: 18px;">La esencia de una isla, la huella de su gente</p>
+    </header>
+
+    <nav style="background-color: #D9C19A; text-align: center; padding: 15px;">
+        <a href="#inicio" style="color: #163D50; text-decoration: none; font-weight: bold; margin: 8px 12px; display: inline-block;">Inicio</a>
+        <a href="#patrimonio" style="color: #163D50; text-decoration: none; font-weight: bold; margin: 8px 12px; display: inline-block;">Tradiciones</a>
+        <a href="#productos" style="color: #163D50; text-decoration: none; font-weight: bold; margin: 8px 12px; display: inline-block;">Productos locales</a>
+        <a href="#gastronomia" style="color: #163D50; text-decoration: none; font-weight: bold; margin: 8px 12px; display: inline-block;">Gastronomía</a>
+        <a href="#turismo" style="color: #163D50; text-decoration: none; font-weight: bold; margin: 8px 12px; display: inline-block;">Turismo sostenible</a>
+    </nav>
+
+    <section id="inicio" style="background-color: #DCEAF0; text-align: center; padding: 60px 25px;">
+
+        <h2 style="color: #163D50; font-size: 34px; text-align: center; margin: 0 auto 20px; max-width: 800px;">
+            Lanzarote es mucho más que un destino turístico
+        </h2>
+
+        <p style="max-width: 800px; margin: 15px auto;">
+            Lanzarote es nuestra casa, nuestra historia y nuestra identidad.
+            Una isla llena de tradiciones, sabores, paisajes y personas que
+            hacen que sea un lugar único.
+        </p>
+
+        <p style="max-width: 800px; margin: 15px auto;">
+            Sin embargo, la masificación turística puede poner en peligro
+            nuestras costumbres, nuestros productos locales y la vida
+            cotidiana de quienes vivimos aquí.
+        </p>
+
+        <p style="max-width: 800px; margin: 15px auto;">
+            En Huella Isleña queremos dar voz a nuestra gente y ayudar a
+            proteger y conservar la esencia de Lanzarote.
+        </p>
+
+        <a href="#patrimonio" style="display: inline-block; background-color: #A64B32; color: white; padding: 12px 25px; margin-top: 20px; text-decoration: none; border-radius: 8px; font-weight: bold;">
+            Descubre nuestra isla
+        </a>
+
+    </section>
+
+    <main style="max-width: 1000px; margin: 35px auto; padding: 0 20px;">
+
+        <section style="text-align: center; padding: 25px;">
+
+            <h2 style="color: #A64B32; font-size: 30px; text-align: center;">
+                ¿Qué queremos proteger?
+            </h2>
+
+            <p style="max-width: 800px; margin: 15px auto;">
+                Nuestra isla tiene una identidad propia que debemos cuidar.
+                Queremos dar visibilidad a aquello que nos representa y
+                evitar que nuestras raíces queden en el olvido.
+            </p>
+
+            <img
+                src="img/1.png"
+                alt="Lo que queremos proteger en Lanzarote"
+                style="width: 85%; max-width: 650px; height: auto; display: block; margin: 25px auto; border-radius: 12px; box-shadow: 0 4px 12px rgba(22, 61, 80, 0.18);"
+            >
+
+        </section>
+
+        <section id="patrimonio" style="background-color: white; padding: 28px; margin: 25px 0; border-radius: 12px; border-left: 7px solid #4C8495; box-shadow: 0 4px 12px rgba(22, 61, 80, 0.12);">
+
+            <h2 style="color: #163D50; margin-top: 0;">1. Patrimonio y tradiciones</h2>
+
+            <p>
+                Las tradiciones forman parte de nuestra historia.
+                Queremos conservar las fiestas populares, la arquitectura
+                tradicional, la artesanía y las costumbres que hemos
+                heredado de nuestros antepasados.
+            </p>
+
+            <p>
+                Proteger nuestro patrimonio significa mantener viva
+                nuestra cultura y transmitirla a las nuevas generaciones.
+            </p>
+
+        </section>
+
+        <section id="productos" style="background-color: white; padding: 28px; margin: 25px 0; border-radius: 12px; border-left: 7px solid #B77A45; box-shadow: 0 4px 12px rgba(22, 61, 80, 0.12);">
+
+            <h2 style="color: #163D50; margin-top: 0;">2. Artistas y productos locales</h2>
+
+            <p>
+                Detrás de cada producto local hay personas, esfuerzo,
+                tradición y conocimiento.
+            </p>
+
+            <p>
+                Queremos apoyar a los agricultores, pescadores, artesanos
+                y pequeños productores de Lanzarote, dando a conocer
+                su trabajo y la importancia de consumir productos de
+                nuestra tierra.
+            </p>
+
+        </section>
+
+        <section id="gastronomia" style="background-color: white; padding: 28px; margin: 25px 0; border-radius: 12px; border-left: 7px solid #A64B32; box-shadow: 0 4px 12px rgba(22, 61, 80, 0.12);">
+
+            <h2 style="color: #163D50; margin-top: 0;">3. Gastronomía canaria</h2>
+
+            <p>
+                La gastronomía es una parte fundamental de nuestra
+                identidad. Los platos tradicionales cuentan historias
+                sobre nuestra tierra y nuestra gente.
+            </p>
+
+            <p>
+                Queremos dar a conocer recetas como las papas arrugadas
+                con mojo, el sancocho canario, el gofio y los postres
+                tradicionales de las islas.
+            </p>
+
+        </section>
+
+        <section id="turismo" style="background-color: white; padding: 28px; margin: 25px 0; border-radius: 12px; border-left: 7px solid #66866C; box-shadow: 0 4px 12px rgba(22, 61, 80, 0.12);">
+
+            <h2 style="color: #163D50; margin-top: 0;">4. Un turismo que respete nuestra isla</h2>
+
+            <img
+                src="img/2.png"
+                alt="Playa de Lanzarote con numerosos turistas"
+                style="width: 85%; max-width: 550px; height: auto; display: block; margin: 25px auto; border-radius: 12px; box-shadow: 0 4px 12px rgba(22, 61, 80, 0.18);"
+            >
+
+            <p>
+                El turismo es importante para Lanzarote, pero debe
+                desarrollarse de una forma responsable y respetuosa
+                con el territorio y sus habitantes.
+            </p>
+
+            <p>
+                La masificación turística puede aumentar la presión
+                sobre los espacios públicos, el transporte, la vivienda
+                y los recursos naturales.
+            </p>
+
+            <p>
+                Apostamos por un turismo sostenible que valore nuestra
+                cultura, cuide el medioambiente y respete la vida
+                cotidiana de la población local.
+            </p>
+
+        </section>
+
+        <section style="background-color: #E6D5BB; text-align: center; padding: 40px 25px; margin: 40px 0; border-radius: 12px;">
+
+            <h2 style="color: #163D50; font-size: 30px; text-align: center;">
+                Nuestra misión
+            </h2>
+
+            <p style="max-width: 800px; margin: 15px auto;">
+                En Huella Isleña creemos que el futuro de Lanzarote
+                no debe construirse olvidando su pasado.
+            </p>
+
+            <p style="max-width: 800px; margin: 15px auto;">
+                Queremos proteger nuestras raíces, apoyar a nuestra
+                gente y conservar todo aquello que hace que nuestra
+                isla sea diferente.
+            </p>
+
+            <h3 style="color: #A64B32; margin: 25px auto 0; max-width: 700px; text-align: center;">
+                Porque Lanzarote no es solo un lugar para visitar,
+                es un hogar que debemos cuidar.
+            </h3>
+
+        </section>
+
+    </main>
+
+    <footer style="background-color: #163D50; color: white; text-align: center; padding: 30px 20px;">
+
+        <h3 style="font-size: 25px;">Huella Isleña</h3>
+
+        <p style="color: #E8D5B7; margin: 5px;">
+            La esencia de una isla, la huella de su gente.
+        </p>
+
+        <p style="color: #E8D5B7; margin: 5px;">
+            Proyecto de Digitalización
+        </p>
+
+        <p style="color: #E8D5B7; margin: 5px;">
+            © 2026 Huella Isleña
+        </p>
+
+    </footer>
+
+</body>
+</html>
